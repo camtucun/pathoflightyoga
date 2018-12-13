@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="yoga.css">
+	<title> Path of Light Yoga Studio </title>
+	<meta charset="utf-8">
+<meta name="viewport" content ="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+ <div id="wrapper">
+	
+	
+	<header>
+		<h1> Path of Light Yoga Studio </h1>
+	</header>
+	
+	<nav>
+		
+		<ul>
+			<li> <a href="Home.html"> Home </a> </li>
+		 <li> <a href="Classes.html"> Classes </a> </li>
+		 <li><a href="Schedule.html"> Schedule </a> </li>
+		 <li><a href="Contact.html"> Contact </a> </li>
+	 </nav>
+	 
+<main>
+	<div id="hero">
+		<img src="yogamat.jpg" alt="yoga mat"> 
+	</div>
+	<h2> Yoga Classes </h2>
+	
+	<dl>
+<dt>
+	 	Gentle Hatha Yoga
+</dt>
+	 <dd>
+	 	Intended for beginners and anyone wishing a grounded foundation in the practice of yoga,
+		<br> this 60 minute class of poses and slow movement focuses on asana (proper alignment 
+		<br>and posture), pranayama (breath work), and guided meditation to foster your mind and body 
+	 	<br>connection. 
+	 </dd>
+	 
+<dt>
+		Vinyasa Yoga
+	</dt> 
+	<dd>
+		Although designed for intermediate to advanced students, beginners are welcome to sample
+		<br> this 60 minute class that focuses on breath-synchronized movement - you will inhale and
+		<br> exhale as you flow energentically through yoga poses.
+	</dd>
+	
+<dt>
+		Restorative Yoga
+	</dt> 
+	
+	<dd>
+		This 90 minute class features very slow movement and long poses that are supported by a chair or wall. This 
+		<br>calming, restorative experience is suitable for students for any level of experience. This practice can be a perfect
+		<br> way to help rehabilitate an injury. 
+	</dd>
+</dl>
+
+<h2> Relax Anytime with Savasana </h2>
+
+<p>
+	Prepare youself for Savasana. Lie down on your mat with your arms at your side with palms up. Close your eyes
+	<br> and breathe slowly but deeply. Sink into the mat and let your worries slip away. When you are ready, roll on your side 
+	<br> and use your arms to push yourself to a sitting position with crossed legs. Place your hands in a prayer position. Be
+	<br> grateful for all you have in life. Namaste. </p>
+	
+	<audio controls="controls">
+		<source src="savasana.mp3" type="audio/mpeg">
+		<source src="savasana.ogg" type="audio/ogg">
+	</audio>
+</main>
+
+
+<footer>
+	
+	<small>
+		<i>
+		 Copyright &copy; 2018 Path of Light Yoga Studio
+			<br> <a href="mailto:tu@pham.com"> tu@pham.com </a>
+		</i>
+	</small>
+</footer>	
+</body>
+</div>
+
+</html>
+			
+	
+   
+</footer>
